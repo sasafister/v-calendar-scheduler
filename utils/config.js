@@ -21,7 +21,7 @@ let config = {
     timeRange: [0, 23],
     availableViews: defaultViews,
     initialDate: new Date(),
-    initialView: 'month',
+    initialView: 'day',
     use12: false,
     showTimeMarker: true,
     eventDisplay: null
